@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**nayankhode3194/nayankhode3194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nayan Khode** is a ✨ Python Developer ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
